@@ -1,0 +1,12 @@
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\DataLayer.dll
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\DataLayer.dll.config
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\JK_Drive\Test\ContactManagement\BusinessLayer\obj\Debug\BusinessLayer.pdb
